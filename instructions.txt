@@ -1,3 +1,5 @@
 Stam instructions for new file
 
 Please refer to the website for more details
+
+Change made in Sample-branch
